@@ -5,11 +5,17 @@ Dự án mẫu mô phỏng quy trình ETL (Extract – Transform – Load) từ 
 ## 📦 Cấu trúc thư mục
 
 etl-project-sample-nodejs/
+
 ├── src/
+
 ├── aws-src/ # Triển khai tương thích AWS
+
 ├── .gitignore
+
 ├── README.md # Mô tả tổng quan dự án
+
 └── README_AWS.md # Chi tiết triển khai AWS
+
 
 
 ## 🔧 Tính năng chính
